@@ -1,0 +1,52 @@
+What is cloud computing?
+Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider 
+
+What is on premises?
+On-premise refers to a software and hardware deployment model where all the resources, including servers, databases, and applications, are installed and run on the physical premises of the organization using them. This model contrasts with cloud computing, where resources are hosted on remote servers and accessed over the internet.
+
+What is IaaS?
+Infrastructure as a service (IaaS) is a type of cloud computing service that offers essential compute, storage, and networking resources on demand, on a pay-as-you-go basis. 
+
+What is PaaS?
+Platform-as-a-service (PaaS) is a form of cloud computing where an application software platform is provided by another party. Primarily for developers and programmers, a PaaS allows the user to develop, run, and manage their own apps without having to build and maintain the infrastructure or platform usually associated with the process like runtime,OS,virtual machine,compute,networking,storage.
+
+What is SaaS?
+Software as a Service (SaaS) is a software delivery model where applications are hosted by a service provider and made available to customers over the internet. Instead of purchasing and installing software on individual devices, users can access the software through a web browser or mobile app on a subscription basis
+
+What are the benefits of cloud computing?
+* Quality control
+* Storage
+* Disaster recovery
+* Cost Savings
+* Security 
+* Flexibility
+* Mobility
+* Automatic Software Updates
+
+Physical Infrastructure:
+It includes datacentre,servers,storage devices and networking equipment
+
+Datacentre:
+Datacentre around the world .However these individual datacentre aren't directly accessible
+
+Regions:
+It organizes its data centres into geographic regions.A region well connected neighborhood within the broader cloud city.
+
+Some factors to consider when selecting a region(Data Privacy,Speed,Service,Availability)
+NOTE:US Gov cloud,China cloud regions come up with some restrictions
+
+Availability Zones:It subdivides regions into Availabilty zones.These zones as separate data centre within the same region,each with its own independent power source,cooling system and dedicating network infrastructure
+
+Management Infrastructure:
+Azure resources : Each component in your Azure tenant are called as the azure resource 
+Resource groups : Organisation of azure resource thus making a good group for dev environment and other such department
+Azure subscriptions: These are the cornerstones of organisation and control within your azure environment.Every azure account requires at least one subscription
+Azure policies : Applied at group level or sub level in order to restrict access based on role
+
+
+
+
+
+
+
+
